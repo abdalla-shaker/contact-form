@@ -76,3 +76,13 @@ button:hover {
   font-weight: 600;
   margin-top: 8px;
 }
+
+.head-message {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.paragraph-message {
+  text-align: center;
+  font-size: 1.4rem;
+}
